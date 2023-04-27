@@ -1,0 +1,19 @@
+{
+  "name": "mywebdev",
+  "version": "1.0.0",
+  "description": "UI and Server styles and functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/who-0/mywebdev.git"
+  },
+  "author": "DaDDy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/who-0/mywebdev/issues"
+  },
+  "homepage": "https://github.com/who-0/mywebdev#readme"
+}
